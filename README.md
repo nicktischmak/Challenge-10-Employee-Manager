@@ -10,9 +10,6 @@
   
   - [Installation](#installation)
   - [Usage](#usage)
-  - [License](#license)
-  - [contributing](#contributing)
-  - [Tests](#tests)
   - [Questions](#questions)
   
   ## Installation
@@ -22,17 +19,7 @@
   ## Usage
   
   Use the "psql -U postgres" command and follow the prompts
-  
-  
-  
-  ## Contributing
-  
-  N/A
-  
-  ## Tests
-  
-  N/A
-  
+
   ## Questions
   
   If you have any questions, please reach out to me at nicktischmak@gmail.com or visit my [GitHub](https://github.com/nicktischmak) for more information.
