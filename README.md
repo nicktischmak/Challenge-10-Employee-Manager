@@ -18,7 +18,7 @@
   
   ## Usage
   
-  Use the "psql -U postgres" command and follow the prompts
+  Use the "node server.ts" command and follow the prompts
 
   ## Questions
   
